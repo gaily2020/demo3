@@ -16,4 +16,8 @@ public class Person {
         System.out.println("222");
         System.out.println("333");
     }
+
+    public static void main(String[] args) {
+
+    }
 }
